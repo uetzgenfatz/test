@@ -7,3 +7,11 @@ Der Einstieg in GitHub ist nicht so leicht, ich finde die Oberfläche etwas unü
 
 
 Hab noch einen Satz ergänzt.
+
+
+Hier ein paar neue Infos:
+
++ Hai
++ Hoi
++ Nä
++ In Hai
